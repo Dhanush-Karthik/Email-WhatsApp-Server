@@ -2,21 +2,21 @@
 
 ## **ABSTRACT**
   
-  * Email is slowly loosing its users in recent times. As of 2010, the number of Americans visiting email web sites had fallen 6 percent after peaking in November 2009. 
+  * Most of the people like to use instant messaging platforms like WhatsApp for sending and receiving messages. 
   
-  * Also a 2015 survey of Android users showed that persons 13 to 24 used messaging apps 3.5 times as much as those over 45, and were far less likely to use email.
+  * Information technology advances and increasingly large numbers of instant messaging apps facilitate messaging a more efficient way for overall messaging experiences than email , this is a major concern for emails.
   
   * Which shows that young people preferred instant messaging, texting and social media over emails.
   
-  * Since the usage of emails are declining over time among young people, we are demonstrating that the problem can be formulated by sending emails through popular instant messaging applications and also it helps to re-establish emails. 
+  * Emails on WhatsApp is a server which allows people to send mail using WhatsApp. This application gets mail id of the receiver, subject of the mail and content of the mail to be sent in WhatsApp through Twilio chatbot. Sender’s message format is given in the bot itself, which helps the user for better experience. 
   
   ## **INTRODUCTION**
   
+  * Email is slowly loosing its users in recent times. As of 2020, the number of young people visiting email web sites had fallen 6 percent.
+  
+  * Since the usage of emails are declining over time among young people, This is a major concern for email communication among the young users. 
+  
   * The purpose of this project is to design an automation bot using WhatsApp where we can send mails consisting of text. Since the usage of emails are declining over time
-  
-  * Young people preferred instant messaging, texting and social media.
-  
-  * Thus incorporation of instant messaging apps and emails can solve this problem.
   
   * Sending mails in WhatsApp is much easier because we spend most of the time on WhatsApp and not switching to another app can save us time and it also facilitates in user flexibility. 
   
@@ -45,14 +45,13 @@
  ## **PROPOSED SYSTEM**
   
   * Nowadays, Young people preferred instant messaging, texting and social media
-  * A 2015 survey of Android users showed that persons 13 to 24 used messaging apps 3.5 times as much as those over 45, and were far less likely to use email
-  * We therefore propose a novel method that accepts the message to be sent in email as text from WhatsApp , a popular instant messaging platform and send that as mail.
-  * Sending mails in WhatsApp is much easier because we spend most of the time on WhatsApp and not switching to another app can save us time at the same time it helps to re-establish emails. 
+  * The proposal of this system is to develop a novel method that accepts the message to be sent in email as text from WhatsApp , a popular instant messaging platform and send that as mail.
+  * Sending mails in WhatsApp is much easier because we spend most of the time on WhatsApp and not switching to another app can save us time at the same time it helps to re-establish emails from its downfall. 
 
 ## **BLOCK DIAGRAM**
 
   <p align="center">
-    <img width="500" alt="older-mobile-users-traditional-services (1)" src="https://user-images.githubusercontent.com/109062680/190862103-5512144b-472e-4d07-bdf9-34833c3a2e0c.jpg">
+    <img width="500" alt="older-mobile-users-traditional-services (1)" src="https://user-images.githubusercontent.com/109062680/200550288-c9a4afbf-7e83-47f6-af6f-2c8d1094d3b7.png">
    </p>
   
 ## **MODULES AND TOOLS**
@@ -79,13 +78,19 @@
   
     Popular instant messaging platform which allows users to send text and voice messages, make voice and video calls and share images, documents, user locations and other content.
 
+## **OUTPUT**
+
+![image](https://user-images.githubusercontent.com/109062680/200550441-db58f421-03cb-40e0-8641-7fbcdee5ca11.png)
+
+![image](https://user-images.githubusercontent.com/109062680/200550465-6ae5e708-a203-4a0d-afd2-6b6b7188af4c.png)
+
+![image](https://user-images.githubusercontent.com/109062680/200550495-a4385a51-ad52-498d-89c7-6f7f9186bc56.png)
+
+![image](https://user-images.githubusercontent.com/109062680/200550527-041eabbe-fbc9-4fdc-9d20-842ded1c28a6.png)
+
 ## **CONCLUSION**
 
-  * In this work we have presented an approach for designing an automation bot using WhatsApp where we can send mails consisting of text.
-  
-  * Since the usage of emails are declining over time, we demonstrated that the problem can be formulated by sending emails through popular instant messaging applications.
-
-  * We could further improve the project by adding features like sending images , audios , videos and documents. 
+  * The aim of this project entails the design and implementation of a platform that helps the user to send Emails from instant messaging platform, since the young users are slowly losing interest in emailing platforms as there is increasing usage of instant messaging platforms. The project also helped to provide knowledge about the latest technology used in developing web enabled application and client server technology that will be great demand in future . It is worth mentioning that this project work is open for further enhancement, with the expectation that it becomes more robust and better enhanced. 
 
 ## REFERENCE LINK
 
